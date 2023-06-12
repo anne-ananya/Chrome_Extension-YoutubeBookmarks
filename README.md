@@ -1,4 +1,4 @@
-# Chrome_Extension-YoutubeBookmarks
+# Chrome_Extension-Friendly Youtube
 My first chrome extention to save YouTube timestamps as bookmarks, add and delete them, revisit those timestamps and play the youtube videos from the saved timestamps. 
 Icons taken from https://www.flaticon.com/
 Not yet published on chrome web store :-( as I can't pay the registration fee of 5 dollars now.
