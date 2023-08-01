@@ -2,10 +2,11 @@
 My first chrome extention to save YouTube timestamps as bookmarks, add and delete them, revisit those timestamps and play the youtube videos from the saved timestamps. 
 Icons taken from https://www.flaticon.com/
 
-#Hashnode Article 
+Hashnode Article 
 https://ananyawritescodes.hashnode.dev/youtube-bookmarker-chrome-extension
 
 Not yet published on chrome web store :-( as I can't pay the registration fee of 5 dollars now.
+
 [Link to Live Video](https://drive.google.com/file/d/1b4JH4Cr7A9SFpOd8jKzmqYWkzw3z3N1P/view?usp=sharing)
 
 ![Screenshot 2023-06-12 122438](https://github.com/anne-ananya/Chrome_Extension-YoutubeBookmarks/assets/124860809/bff9a9b1-f258-40ff-920a-0fc05f7dc76c)
